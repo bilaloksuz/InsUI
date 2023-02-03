@@ -1,0 +1,13 @@
+data:
+  BaseUrl: https://www.useinsider.com
+  Browser: chrome
+  Logo: https://useinsider.com/assets/img/logo-old.png
+  MoreButtonText: More
+  CareerText: Careers Ready to disrupt? Explore opportunities and see what it’s like learn and grow with an amazing team.
+  FindJobButtonText: Find your dream job
+  QaJobButtonText: Quality Assurance
+  QaJobTitle: Quality Assurance
+  DefaultLocation: Istanbul, Turkey
+
+gridConfiguration:
+  gridURL: http://localhost:4444/
